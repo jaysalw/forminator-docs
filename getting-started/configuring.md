@@ -35,3 +35,11 @@ This will look different depending on the **permissions** you set for other user
 Here, you are able to change your Vanity URL, Banner, Server Description and Submission Retention Limit.&#x20;
 
 Some of these options are restricted for free users, however most of these are niche or often not required for everyday users.
+
+### Introduction to Permissions
+
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+Using the dropdown for selecting roles, you're able to select which roles get what permissions.
+
+For what permissions pair with each other, and which requires another permission are listed within the Permissions documentation page.
