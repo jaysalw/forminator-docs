@@ -1,2 +1,6 @@
-# Page
+---
+icon: house
+---
+
+# Main page
 

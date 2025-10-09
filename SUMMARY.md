@@ -1,3 +1,8 @@
 # Table of contents
 
-* [Page](README.md)
+* [Main page](README.md)
+
+## Getting Started
+
+* [Prerequisites](getting-started/prerequisites.md)
+* [Configuring](getting-started/configuring.md)
