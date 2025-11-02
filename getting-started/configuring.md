@@ -20,7 +20,7 @@ When **forminator** joins a server, it automatically sends a welcome message wit
 
 ### Navigating the management page
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 The above image is an example of what the management system looks like. This is where you can change almost every aspect of your server's configuration.
 
@@ -30,7 +30,7 @@ This will look different depending on the **permissions** you set for other user
 
 ### Editing your settings
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Here, you are able to change your Vanity URL, Banner, Server Description and Submission Retention Limit.&#x20;
 
