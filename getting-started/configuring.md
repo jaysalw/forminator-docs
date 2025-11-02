@@ -1,6 +1,6 @@
 # Configuring
 
-Your server has it's own page of sorts. This is accessible via your vanity URL. Every server has a vanity URL and is unique, however only premium servers are able to customise it.
+ViYour server has it's own page of sorts. This is accessible via your vanity URL. Every server has a vanity URL and is unique, however only premium servers are able to customise it.
 
 For example - by default your vanity URL will be your server's ID.
 
@@ -42,4 +42,10 @@ Some of these options are restricted for free users, however most of these are n
 
 Using the dropdown for selecting roles, you're able to select which roles get what permissions.
 
-For what permissions pair with each other, and which requires another permission are listed within the Permissions documentation page.
+{% hint style="success" %}
+**A list of what permission does what is now included within the page itself.** \
+You are, however, able to view these in the permissions page\
+\
+&#x20;<a href="../general-documentation/permissions.md" class="button secondary">View permissions list</a>
+{% endhint %}
+
