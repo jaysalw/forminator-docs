@@ -8,6 +8,7 @@
 * [Configuring](getting-started/configuring.md)
 * [Creating your first form](getting-started/creating-your-first-form.md)
 * [Managing Submissions](getting-started/managing-submissions.md)
+* [Using Sections](getting-started/using-sections.md)
 
 ## General Documentation
 
