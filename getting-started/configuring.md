@@ -30,7 +30,7 @@ This will look different depending on the **permissions** you set for other user
 
 ### Editing your settings
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Here, you are able to change your Vanity URL, Banner, Server Description and Submission Retention Limit.&#x20;
 
