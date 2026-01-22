@@ -13,4 +13,7 @@
 
 ## General Documentation
 
+* [Settings](general-documentation/settings.md)
+* [Submissions](general-documentation/submissions.md)
+* [Actions](general-documentation/actions.md)
 * [Permissions](general-documentation/permissions.md)
