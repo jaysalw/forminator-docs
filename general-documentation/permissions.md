@@ -15,6 +15,6 @@
 * **Edit Settings**\
   Allows users to edit server configuration.
 * **Trigger Actions**\
-  This permission does not do anything currently, however will require `view_submissions` as well.<br>
+  Allows users to trigger actions, however will require `view_submissions` as well.<br>
 
 Users within your server that have native discord **administrator permissions** and the **server owner** have the administrator permission automatically, though this is not shown within the permissions configuration.
