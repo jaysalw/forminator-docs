@@ -11,4 +11,8 @@ If you remove the default permissions when inviting the bot, then some features 
 **Ensure the bot can view channels where you wish to send submissions using the default submission notifier option.** (non-webhooks)
 {% endhint %}
 
+You can give the bot Administrator permissions to get rid of all the trouble but it's **not recomended** incase someone abuses the bot.
+
 If you still need to invite the bot, head to [https://top.gg/bot/1414363169761132676](https://top.gg/bot/1414363169761132676) and press "Invite Bot".
+
+If you have any difficulties/problems, tell us in the [Forminator.gg Support Server](https://discord.gg/VuWa6CNa5j).
